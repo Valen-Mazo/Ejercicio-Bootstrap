@@ -1,0 +1,23 @@
+.card {
+    background-color: rgba(115,63,200,255);
+}
+.card2{
+    background-color: rgba(73,85,107,255);
+}
+.img{
+    background-image: url(../imagenes-ejercicio-Cards/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 27rem 1rem;
+}
+.card3{
+    background-color: rgba(255,255,255,255);
+}
+.card4{
+    background-color: rgba(24,32,45,255);
+}
+.card5{
+    background-color: rgba(255,255,255,255);
+}
+.container{
+    background-color: rgba(237,242,248,255);
+}
